@@ -63,7 +63,7 @@ Model Building
     -	We have found final equation as:
 
 **Odds(Converted)=(4.52)\*Total Time Spent on Website + (3.73)\*Lead Origin_Lead Add Form + (2.57)\*Occupation_Working Professional + (2.11)\*Lead Source_Welingak Website + (1.27)\*Matters_Better Career Prospects + (1.03)\*Lead Source_Olark Chat + (0.86)\*TotalVisits + (0.18)\*Lead Origin_API + (-1.3)\*Do Not Email + (-3.27)**
-Assigning Lead Score to Original Dataframe
+-   Assigning Lead Score to Original Dataframe
 -	Concatenating Train and Test dataset using LeadID
 -	Joining it with original dataframe using Lead_Score
 ## Learnings:
